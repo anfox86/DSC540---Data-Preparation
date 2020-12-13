@@ -1,2 +1,2 @@
 # DSC540-T301-Data-Preparation-
-This repository is for DSC540 - Data Preparation course. It will contain all of the completed assignments as well as final term project.
+Much like life, the data humans produce is infinitely variable in its structure, presentation, and scale. This course prepares students for this infinite variety of data. Students use Python, SQL, and other tools to acquire, prepare, clean, and automate dataset creation.
