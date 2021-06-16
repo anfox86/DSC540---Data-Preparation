@@ -1,2 +1,1 @@
-# DSC540-T301-Data-Preparation-
-Much like life, the data humans produce is infinitely variable in its structure, presentation, and scale. This course prepares students for this infinite variety of data. Students use Python, SQL, and other tools to acquire, prepare, clean, and automate dataset creation.
+This project was about finding data from different sources and being able to clean, analyze, and combine all of the sources into one file. Since this was spring of 2020 it made sense to look at Covid-19 data as it was so new.
